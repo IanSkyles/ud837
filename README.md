@@ -1,12 +1,15 @@
 # ud837
 Udacity's Android Development for Beginners
 ##Lesson 1
+
 ###Tips and Tricks
+
 ####Useful Links
 * [Material Design color palette](http://www.google.com/design/spec/style/color.html#color-color-palette)
 * [Common android views](https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view)
 * [Typography](http://www.google.com/design/spec/style/typography.html#typography-styles)
 * [XML Visualizer](http://labs.udacity.com/android-visualizer/#/android/text-color)
+
 ####Useful Code
 * set the background color, text color, and text apperance (dynamically size text based on android and other apps.
 ```
