@@ -29,3 +29,5 @@ Udacity's Android Development for Beginners
     android:layout_height="wrap_content"
     android:scaleType="center"/>
 ```
+* Below is how many apps incorporate a beautiful picture that is similar to a bannerl.
+![Alt text](https://github.com/IanSkyles/ud837/blob/master/1_LessonOne_BuildingLayouts/images/imageViewBeautiful.jpg?raw=true "Original Picture 1")
