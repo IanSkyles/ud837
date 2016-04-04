@@ -36,3 +36,5 @@ Udacity's Android Development for Beginners
 ####Terms / Definitions
 * `TextView` - is a view that contains many other views such as TextView and ImageView.
 * `layout_Width` and `layout_height` - can set to `wrap_content`, a fixed dp eg `400dp`, or `match_parent`
+* RelativeLayout - positon views relative to parent or to other children.
+  * ParentTop, ParentBottom, ParentLeft, ParentRight 
