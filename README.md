@@ -9,6 +9,7 @@ Udacity's Android Development for Beginners
 * [Common android views](https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view)
 * [Typography](http://www.google.com/design/spec/style/typography.html#typography-styles)
 * [XML Visualizer](http://labs.udacity.com/android-visualizer/#/android/text-color)
+* [Android Vocabulary Words](https://developers.google.com/android/for-all/vocab-words/)
 
 ####Useful Code
 * set the background color, text color, and text apperance (dynamically size text based on android and other apps.
